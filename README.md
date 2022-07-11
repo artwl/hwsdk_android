@@ -1,4 +1,4 @@
-# hw_ironSource_sdk_android
+# hw_sdk_android
 
 本文档是Android版变现SDK，当前版本 `V10.0.2`， <b>  建议接SDK，就接最新的版本 </B>
 
@@ -18,4 +18,4 @@ SDK 下载地址：[v.10.0.2](https://github.com/artwl/hw_game_mp_sdk_ironsource
 
 详细内容请查看更新记录，有完整的更新内容列表。
 - **10.0.2 新特性 (10.0.2 - 2022年7月11日)**
-  - 1.使用ironSource聚合SDK
+  - 1.更新SDK
