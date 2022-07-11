@@ -4,7 +4,7 @@
 
 ## 下载地址
 
-SDK 下载地址：[v.10.0.2](https://github.com/artwl/hwsdk_android/releases/tag/V9.5.2)
+SDK 下载地址：[v.10.0.2](https://github.com/artwl/hw_game_mp_sdk_ironsource_android/releases)
 
 ## 接入文档
 
