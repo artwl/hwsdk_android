@@ -1,10 +1,10 @@
 # hw_sdk_android
 
-本文档是Android版变现SDK，当前版本 `V10.2.5`， <b>  建议接SDK，就接最新的版本 </B>
+本文档是Android版变现SDK，当前版本 `V10.2.6`， <b>  建议接SDK，就接最新的版本 </B>
 
 ## 下载地址
 
-SDK 下载地址：[v.10.2.5](https://github.com/artwl/hw_game_mp_sdk_ironsource_android/releases)
+SDK 下载地址：[v.10.2.6](https://github.com/artwl/hw_game_mp_sdk_ironsource_android/releases)
 
 ## 接入文档
 
@@ -14,10 +14,14 @@ SDK 下载地址：[v.10.2.5](https://github.com/artwl/hw_game_mp_sdk_ironsource
 
 请先查看接入文档和常见问题，还有问题可联系对接人寻求技术支持
 
-## 本版特性 (10.2.5 - 2022年12月)
+## 本版特性 (10.2.6 - 2023年2月)
 
 详细内容请查看更新记录，有完整的更新内容列表。
 
+- **10.2.6 新特性（2023年2月01号）**
+  - 1.更新第三方库版本
+  - 2.内购打点添加货币单位currency参数,内购打点需传入本地化金额和单位
+  
 - **10.2.5 新特性（2022年12月07号）**
   - 1.更新第三方库版本
   - 2.支持动态控制SDK中的插屏展示逻辑
