@@ -1,10 +1,10 @@
 # hw_sdk_android
 
-本文档是Android版变现SDK，当前版本 `V10.2.22`， <b>  建议接SDK，就接最新的版本 </B>
+本文档是Android版变现SDK，当前版本 `V10.2.33`， <b>  建议接SDK，就接最新的版本 </B>
 
 ## 下载地址
 
-SDK 下载地址：[v.10.2.22](https://github.com/artwl/hw_game_mp_sdk_ironsource_android/releases)
+SDK 下载地址：[v.10.2.33](https://github.com/artwl/hw_game_mp_sdk_ironsource_android/releases)
 
 ## 接入文档
 
@@ -14,10 +14,15 @@ SDK 下载地址：[v.10.2.22](https://github.com/artwl/hw_game_mp_sdk_ironsourc
 
 请先查看接入文档和常见问题，还有问题可联系对接人寻求技术支持
 
-## 本版特性 (10.2.22 - 2023年7月)
+## 本版特性 (10.2.33 - 2023年8月)
 
 详细内容请查看更新记录，有完整的更新内容列表。
 
+- **10.2.33 新特性（2023年8月21号）**
+  - 1.更新第三方库版本
+  - 2.去掉Tapjoy渠道
+  - 3.添加内购二次验证和订阅类型打点系数
+    
 - **10.2.22 新特性（2023年7月13号）**
   - 1.更新第三方库版本
   - 2.添加内购打点系数
