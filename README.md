@@ -1,10 +1,10 @@
 # hw_sdk_android
 
-本文档是Android版变现SDK，当前版本 `V10.2.78`， <b>  建议接SDK，就接最新的版本 </B>
+本文档是Android版变现SDK，当前版本 `V10.2.82`， <b>  建议接SDK，就接最新的版本 </B>
 
 ## 下载地址
 
-SDK 下载地址：[v.10.2.78](https://github.com/artwl/hw_game_mp_sdk_ironsource_android/releases)
+SDK 下载地址：[v.10.2.82](https://github.com/artwl/hw_game_mp_sdk_ironsource_android/releases)
 
 ## 接入文档
 
@@ -14,9 +14,12 @@ SDK 下载地址：[v.10.2.78](https://github.com/artwl/hw_game_mp_sdk_ironsourc
 
 请先查看接入文档和常见问题，还有问题可联系对接人寻求技术支持
 
-## 本版特性 (10.2.78 - 2024年10月)
+## 本版特性 (10.2.82 - 2024年10月)
 
 详细内容请查看更新记录，有完整的更新内容列表。
+
+- **10.2.82 新特性（2024年10月22号）**
+  - 1.新增打点
 
 - **10.2.78 新特性（2024年10月8号）**
   - 1.更新第三方库版本
